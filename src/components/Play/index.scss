@@ -1,0 +1,55 @@
+.bookmain{
+	margin: 0 0.16rem;
+	padding-bottom: 0.2rem;
+	border-bottom: 0.01rem solid #ddd;
+}
+.more{
+	width: 100%;
+	height: 0.5rem;
+	text-align: center;
+	font: 0.12rem/0.5rem "";
+	color:#666;
+}
+.title{
+	position: relative;
+	padding-left: 0.46rem;
+	img{
+		width:0.35rem;
+		height: 0.35rem;
+		border-radius: 50%;
+		position: absolute;
+		top: 0.06rem;
+		left: 0;
+	}
+	p{
+		font: 700 0.14rem/0.25rem "";
+		color: #494949;
+		margin-top: 0.1rem;
+		span{
+			font-weight: 500;
+			color: #aaa;
+		}
+	}
+	span{
+		font: 500 0.12rem/0.16rem "";
+		color: #aaa;
+	}
+}
+.count{
+	padding-left: 0.46rem;
+	font:0.13rem/0.2rem "";
+	margin-top: 0.07rem;
+	img{
+		width: 2.38rem;
+		border-radius: 0.05rem;
+		margin-top: 0.04rem;
+	}
+	.p2{
+		font:0.12rem/0.2rem "";
+		background: #eee;
+		margin-top: 0.04rem;
+		padding: 0.03rem;
+		box-sizing: border-box;
+		border-radius: 0.05rem;
+	}
+}

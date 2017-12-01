@@ -1,0 +1,46 @@
+.am-search {
+    border-bottom: 1px solid #ddd;
+}
+.sub-title {
+    color: #888;
+    font-size: 14px;
+    padding: 30px 0 18px 0;
+}
+
+#search{
+    ul{
+        padding: 0 0.15rem;
+        li{
+            overflow: hidden;
+            margin: 0.2rem 0;
+            img{
+                display: block;
+                float: left;
+                width:0.5rem;
+            }
+            div{
+                float: left;
+            }
+            span{
+                display: block;
+                margin-left: 0.2rem;
+            }
+            .sertitle{
+                font:0.12rem/0.28rem "";
+                color:#333;
+                width: 2rem;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+            .type{
+                font:0.1rem/0.2rem "";
+                color:#888;
+            }
+            .year{
+                font:0.1rem/0.2rem "";
+                color:#aaa;
+            }
+        }
+    }
+}

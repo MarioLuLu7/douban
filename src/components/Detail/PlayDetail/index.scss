@@ -1,0 +1,37 @@
+#playdetail{
+	padding: 0 0.15rem;
+	.comment{
+		margin-top: 0.3rem;
+		.comtitle{
+			font:0.12rem/0.2rem "";
+			color:#888;
+		}
+		li{
+			margin-top: 0.25rem;
+			overflow: hidden;
+			img{
+				width: 0.27rem;
+				height: 0.27rem;
+				border-radius: 50%;
+				display: block;
+				float: left;
+			}
+			.cominfo{
+				float: right;
+				width: 2.45rem;
+			}
+			.name{
+				font:700 0.11rem/0.15rem "";
+				color: #222;
+			}
+			.time{
+				font:0.1rem/0.24rem "";
+				color: #aaa;
+			}
+			.commentmain{
+				font:0.11rem/0.16rem "";
+				color: #555;
+			}
+		}
+	}
+}

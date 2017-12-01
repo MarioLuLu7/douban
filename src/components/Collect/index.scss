@@ -1,0 +1,57 @@
+#collect{
+    ul{
+        padding: 0 0.15rem;
+        li{
+            overflow: hidden;
+            margin: 0.1rem 0 0.2rem;
+            img{
+                display: block;
+                float: left;
+                width:0.5rem;
+            }
+            div{
+                float: left;
+            }
+            span{
+                margin-left: 0.2rem;
+            }
+            .sertitle{
+                font:0.12rem/0.28rem "";
+                color:#333;
+                width: 2rem;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                display: block;
+            }
+            .type{
+                font:0.1rem/0.2rem "";
+                color:#888;
+            }
+            .year{
+                font:0.1rem/0.2rem "";
+                color:#aaa;
+            }
+            p{
+                width: 2rem;
+                font:0.11rem/0.2rem "";
+                color:#444;
+                margin-left: 0.2rem;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+        }
+    }
+    .collectTitle{
+        font:0.14rem/0.36rem "";
+        color:#333;
+        margin-left: 0.15rem;
+    }
+}
+
+.no{
+    font: 0.12rem/0.5rem "";
+    text-align: center;
+    color: #222;
+}
